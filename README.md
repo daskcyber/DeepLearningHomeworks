@@ -1,2 +1,4 @@
 # DeepLearningHomeworks
 This reporsitory contains all  the homeworks for the course "deep learning " 2020/2021 of University of Padua.
+
+You can try them by your own, they are useful to learn basics of Deep Learning methods and techniques
